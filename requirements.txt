@@ -1,0 +1,13 @@
+langgraph>=1.0
+langchain>=1.0
+langchain-anthropic>=1.0
+langchain-google-genai>=4.0
+pydantic>=2.7
+pypdf>=5.0
+pypdfium2>=4.30
+streamlit>=1.40
+pandas>=2.2
+openpyxl>=3.1
+python-dotenv>=1.0
+reportlab>=4.2
+pytest>=8.0
